@@ -1,6 +1,8 @@
 # Vitaneri
 
-My own personal corner of the Internet.
+My personal site v4 (now archived).
+
+Created with Sveltekit
 
 ## Generate Content
 
